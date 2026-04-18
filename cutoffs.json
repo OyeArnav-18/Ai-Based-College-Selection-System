@@ -1,0 +1,895 @@
+{
+  "Indian Institute of Technology Bhubaneswar": {
+    "CE": 14467,
+    "CSE": 3863,
+    "EE": 7432,
+    "ECE": 5585,
+    "ME": 10284
+  },
+  "Indian Institute of Technology Bombay": {
+    "Aerospace": 2305,
+    "Chemical": 2423,
+    "CE": 4095,
+    "CSE": 66,
+    "EE": 433,
+    "ME": 1779
+  },
+  "Indian Institute of Technology Mandi": {
+    "CE": 12623,
+    "CSE": 3095,
+    "EE": 6620,
+    "ME": 9414
+  },
+  "Indian Institute of Technology Delhi": {
+    "Chemical": 5712,
+    "CE": 4228,
+    "CSE": 1346,
+    "EE": 605,
+    "ME": 1862
+  },
+  "Indian Institute of Technology Indore": {
+    "CE": 10078,
+    "CSE": 1688,
+    "EE": 3675,
+    "ME": 6966,
+    "Chemical": 7826
+  },
+  "Indian Institute of Technology Kharagpur": {
+    "Aerospace": 4609,
+    "Chemical": 8148,
+    "CE": 7254,
+    "CSE": 455,
+    "EE": 1929,
+    "ECE": 1471,
+    "ME": 3764
+  },
+  "Indian Institute of Technology Hyderabad": {
+    "Chemical": 5480,
+    "CE": 8139,
+    "CSE": 667,
+    "EE": 1818,
+    "ME": 4328
+  },
+  "Indian Institute of Technology Jodhpur": {
+    "Chemical": 10547,
+    "CSE": 2860,
+    "EE": 6402,
+    "ME": 9177
+  },
+  "Indian Institute of Technology Kanpur": {
+    "Aerospace": 3661,
+    "Chemical": 4047,
+    "CE": 5844,
+    "CSE": 271,
+    "EE": 1124,
+    "ME": 2697
+  },
+  "Indian Institute of Technology Madras": {
+    "Aerospace": 2749,
+    "Chemical": 3804,
+    "CE": 5639,
+    "CSE": 171,
+    "EE": 808,
+    "ME": 2363
+  },
+  "Indian Institute of Technology Gandhinagar": {
+    "Chemical": 8033,
+    "CE": 10100,
+    "CSE": 1893,
+    "EE": 3846,
+    "ME": 6622
+  },
+  "Indian Institute of Technology Patna": {
+    "Chemical": 12721,
+    "CE": 14662,
+    "CSE": 4297,
+    "EE": 7718,
+    "ME": 9176,
+    "ECE": 7934
+  },
+  "Indian Institute of Technology Roorkee": {
+    "Chemical": 4594,
+    "CE": 6532,
+    "CSE": 562,
+    "EE": 2032,
+    "ECE": 1407,
+    "ME": 3773
+  },
+  "Indian Institute of Technology (ISM) Dhanbad": {
+    "Chemical": 10791,
+    "CE": 12488,
+    "CSE": 3377,
+    "EE": 7127,
+    "ECE": 5584,
+    "ME": 9563
+  },
+  "Indian Institute of Technology Ropar": {
+    "Chemical": 9594,
+    "CE": 10798,
+    "CSE": 2394,
+    "EE": 5859,
+    "ME": 8196
+  },
+  "Indian Institute of Technology (BHU) Varanasi": {
+    "Chemical": 11771,
+    "CE": 9412,
+    "CSE": 1424,
+    "EE": 3493,
+    "ME": 6815
+  },
+  "Indian Institute of Technology Guwahati": {
+    "Chemical": 5253,
+    "CE": 8115,
+    "CSE": 736,
+    "ECE": 1727,
+    "EE": 2081,
+    "ME": 4487
+  },
+  "Indian Institute of Technology Bhilai": {
+    "CSE": 6549,
+    "EE": 10431,
+    "ME": 12966,
+    "ECE": 8542
+  },
+  "Indian Institute of Technology Goa": {
+    "CSE": 5878,
+    "EE": 9486,
+    "ME": 11538
+  },
+  "Indian Institute of Technology Palakkad": {
+    "CE": 15540,
+    "CSE": 5811,
+    "EE": 9321,
+    "ME": 11499
+  },
+  "Indian Institute of Technology Tirupati": {
+    "Chemical": 14186,
+    "CE": 14916,
+    "CSE": 4855,
+    "EE": 8165,
+    "ME": 11023
+  },
+  "Indian Institute of Technology Jammu": {
+    "Chemical": 15054,
+    "CE": 15683,
+    "CSE": 5988,
+    "EE": 9759,
+    "ME": 12513
+  },
+  "Indian Institute of Technology Dharwad": {
+    "CSE": 6439,
+    "EE": 9476,
+    "ME": 12767,
+    "Chemical": 15010,
+    "ECE": 8413
+  },
+  "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+    "CSE": 8728,
+    "EE": 16586
+  },
+  "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+    "CSE": 25666,
+    "ECE": 33354
+  },
+  "Indian Institute of Information Technology Guwahati": {
+    "CSE": 21062,
+    "ECE": 27674
+  },
+  "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+    "CSE": 34909,
+    "ECE": 43984
+  },
+  "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana": {
+    "CSE": 30331,
+    "IT": 33893
+  },
+  "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh": {
+    "CSE": 31918,
+    "ECE": 38536,
+    "IT": 33023
+  },
+  "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+    "CSE": 25197,
+    "ECE": 30803
+  },
+  "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+    "CSE": 22987,
+    "IT": 26518,
+    "ECE": 33926
+  },
+  "Indian Institute of Information Technology, Allahabad": {
+    "ECE": 7447,
+    "IT": 5474
+  },
+  "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+    "CSE": 17600,
+    "ECE": 26997,
+    "ME": 38684
+  },
+  "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+    "CSE": 13484,
+    "ECE": 18183,
+    "ME": 39936
+  },
+  "Indian Institute of Information Technology Manipur": {
+    "CSE": 43500,
+    "ECE": 50493
+  },
+  "Indian Institute of Information Technology Tiruchirappalli": {
+    "CSE": 23249,
+    "ECE": 35311
+  },
+  "Indian Institute of Information Technology Lucknow": {
+    "IT": 10371
+  },
+  "Indian Institute of Information Technology(IIIT) Dharwad": {
+    "CSE": 38343,
+    "ECE": 42916
+  },
+  "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh": {
+    "CSE": 32512,
+    "ECE": 43687,
+    "ME": 50717
+  },
+  "Indian Institute of Information Technology(IIIT) Kottayam": {
+    "CSE": 36401,
+    "ECE": 39326
+  },
+  "Indian Institute of Information Technology (IIIT) Ranchi": {
+    "CSE": 34325,
+    "ECE": 42700
+  },
+  "Indian Institute of Information Technology (IIIT) Nagpur": {
+    "CSE": 27577,
+    "ECE": 37845
+  },
+  "Indian Institute of Information Technology (IIIT) Pune": {
+    "CSE": 18979,
+    "ECE": 24595
+  },
+  "Indian Institute of Information Technology Bhagalpur": {
+    "CSE": 41121,
+    "ECE": 43918
+  },
+  "Indian Institute of Information Technology Bhopal": {
+    "CSE": 25848,
+    "ECE": 37001,
+    "IT": 33182
+  },
+  "Indian Institute of Information Technology Surat": {
+    "CSE": 26510,
+    "ECE": 34464
+  },
+  "Indian Institute of Information Technology, Agartala": {
+    "CSE": 41708
+  },
+  "Indian institute of information technology, Raichur, Karnataka": {
+    "CSE": 34471
+  },
+  "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)": {
+    "CSE": 35676,
+    "ECE": 42482
+  },
+  "Assam University, Silchar": {
+    "CSE": 54614,
+    "ECE": 60499
+  },
+  "Birla Institute of Technology, Mesra, Ranchi": {
+    "Chemical": 51144,
+    "CE": 52654,
+    "CSE": 16897,
+    "EE": 30375,
+    "ECE": 24964,
+    "IT": 13357,
+    "ME": 43420
+  },
+  "Gurukula Kangri Vishwavidyalaya, Haridwar": {
+    "CSE": 72812,
+    "EE": 79988,
+    "ECE": 87764,
+    "ME": 100428
+  },
+  "Institute of Infrastructure, Technology, Research and Management-Ahmedabad": {
+    "CE": 74198,
+    "EE": 58385,
+    "ME": 65199
+  },
+  "Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)": {
+    "Chemical": 81167,
+    "CE": 85821,
+    "CSE": 58070,
+    "ECE": 76503,
+    "IT": 71089,
+    "ME": 89493
+  },
+  "J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad": {
+    "CSE": 45047,
+    "ECE": 58711
+  },
+  "National Institute of Foundry & Forge Technology, Hatia, Ranchi": {
+    "ME": 66727
+  },
+  "Sant Longowal Institute of Engineering and Technology": {
+    "Chemical": 95622,
+    "CSE": 61164,
+    "EE": 78937,
+    "ECE": 67228,
+    "ME": 90884,
+    "CE": 97864
+  },
+  "Mizoram University, Aizawl": {
+    "CE": 101166,
+    "EE": 87655,
+    "ECE": 81072,
+    "IT": 75533
+  },
+  "School of Engineering, Tezpur University, Napaam, Tezpur": {
+    "CE": 87713,
+    "CSE": 58363,
+    "EE": 78802,
+    "ECE": 51609,
+    "ME": 74721
+  },
+  "Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir": {
+    "CE": 99564,
+    "CSE": 65994,
+    "EE": 88151,
+    "ECE": 84090,
+    "ME": 89033
+  },
+  "HNB Garhwal University Srinagar (Garhwal)": {
+    "CSE": 60561,
+    "ECE": 72289,
+    "IT": 65339,
+    "ME": 80106
+  },
+  "International Institute of Information Technology, Naya Raipur": {
+    "CSE": 18404,
+    "ECE": 28226
+  },
+  "Jawaharlal Nehru University, Delhi": {
+    "CSE": 30501,
+    "ECE": 37302
+  },
+  "International Institute of Information Technology, Bhubaneswar": {
+    "CSE": 31600,
+    "EE": 42835,
+    "IT": 37248
+  },
+  "Central institute of Technology Kokrajar, Assam": {
+    "CE": 75893,
+    "CSE": 55464,
+    "ECE": 64323
+  },
+  "Pondicherry Engineering College, Puducherry": {
+    "Chemical": 57691,
+    "CE": 76052,
+    "CSE": 42585,
+    "EE": 45963,
+    "ECE": 52850,
+    "IT": 41195,
+    "ME": 65103
+  },
+  "Central University of Rajasthan, Rajasthan": {
+    "CSE": 50476,
+    "ECE": 62088
+  },
+  "North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh": {
+    "CE": 65709,
+    "EE": 60281,
+    "ECE": 53699,
+    "ME": 65512,
+    "CSE": 52649
+  },
+  "Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar": {
+    "Chemical": 60111
+  },
+  "North-Eastern Hill University, Shillong": {
+    "ECE": 87752,
+    "IT": 75532
+  },
+  "National Institute of Advanced Manufacturing Technology, Ranchi": {
+    "ME": 63431
+  },
+  "University of Hyderabad": {
+    "CSE": 32628
+  },
+  "Puducherry Technological University, Puducherry": {
+    "Chemical": 63286,
+    "CE": 82373,
+    "CSE": 51063,
+    "EE": 50147,
+    "ECE": 56081,
+    "IT": 46281,
+    "ME": 72660
+  },
+  "Central University of Jammu": {
+    "CSE": 74923,
+    "ECE": 88382
+  },
+  "Birla Institute of Technology, Deoghar Off-Campus": {
+    "CSE": 52039,
+    "EE": 64514,
+    "ECE": 62547,
+    "ME": 70172
+  },
+  "Birla Institute of Technology, Patna Off-Campus": {
+    "CE": 74762,
+    "CSE": 46829,
+    "EE": 60630,
+    "ECE": 54143,
+    "ME": 69801
+  },
+  "CU Jharkhand": {
+    "CE": 82359,
+    "CSE": 69474,
+    "EE": 80268
+  },
+  "Central University of Haryana": {
+    "CE": 98534,
+    "CSE": 60861,
+    "EE": 80749
+  },
+  "Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)": {
+    "CE": 86883
+  },
+  "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+    "Chemical": 37272,
+    "CE": 44274,
+    "CSE": 10957,
+    "EE": 21545,
+    "ECE": 15270,
+    "IT": 14120,
+    "ME": 30878
+  },
+  "Gati Shakti Vishwavidyalaya, Vadodara": {
+    "CE": 84268,
+    "EE": 72692,
+    "ECE": 62649,
+    "ME": 73517
+  },
+  "Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal": {
+    "EE": 82676,
+    "ME": 83761
+  },
+  "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR": {
+    "CSE": 54807,
+    "ECE": 60763
+  },
+  "Indian Institute of Engineering Science and Technology, Shibpur": {
+    "Aerospace": 21831,
+    "CE": 49591,
+    "CSE": 14635,
+    "EE": 28389,
+    "IT": 16840,
+    "ME": 35857
+  },
+  "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)": {
+    "Aerospace": 76809,
+    "CSE": 65286,
+    "ECE": 80611
+  },
+  "Malaviya National Institute of Technology Jaipur": {
+    "Chemical": 25049,
+    "CE": 32608,
+    "CSE": 4711,
+    "EE": 13170,
+    "ECE": 8437,
+    "ME": 20436
+  },
+  "Maulana Azad National Institute of Technology Bhopal": {
+    "Chemical": 34554,
+    "CE": 39973,
+    "CSE": 8830,
+    "EE": 20334,
+    "ECE": 14955,
+    "ME": 29993
+  },
+  "Motilal Nehru National Institute of Technology Allahabad": {
+    "Chemical": 21061,
+    "CE": 29422,
+    "CSE": 4191,
+    "EE": 10928,
+    "ECE": 7707,
+    "ME": 19748
+  },
+  "National Institute of Technology Agartala": {
+    "Chemical": 55914,
+    "CE": 53657,
+    "CSE": 20298,
+    "EE": 38044,
+    "ECE": 27158,
+    "ME": 46675
+  },
+  "National Institute of Technology Arunachal Pradesh": {
+    "CE": 55692,
+    "CSE": 28514,
+    "EE": 45212,
+    "ECE": 40722,
+    "ME": 50666
+  },
+  "National Institute of Technology Calicut": {
+    "Chemical": 26194,
+    "CE": 33650,
+    "CSE": 4482,
+    "EE": 11415,
+    "ECE": 7433,
+    "ME": 20611
+  },
+  "National Institute of Technology Delhi": {
+    "Aerospace": 14243,
+    "CE": 27045,
+    "CSE": 8018,
+    "EE": 16739,
+    "ECE": 12080,
+    "ME": 22208
+  },
+  "National Institute of Technology Durgapur": {
+    "Chemical": 33696,
+    "CE": 40215,
+    "CSE": 8765,
+    "EE": 19559,
+    "ECE": 13608,
+    "ME": 27957
+  },
+  "National Institute of Technology Goa": {
+    "CE": 44014,
+    "CSE": 12511,
+    "EE": 23326,
+    "ECE": 16935,
+    "ME": 31124
+  },
+  "National Institute of Technology Hamirpur": {
+    "Chemical": 39188,
+    "CE": 45502,
+    "CSE": 12236,
+    "EE": 25782,
+    "ECE": 18421,
+    "ME": 35236
+  },
+  "National Institute of Technology Karnataka, Surathkal": {
+    "Chemical": 15195,
+    "CE": 22939,
+    "CSE": 1615,
+    "EE": 7132,
+    "ECE": 4227,
+    "IT": 2944,
+    "ME": 12380
+  },
+  "National Institute of Technology Meghalaya": {
+    "CE": 49836,
+    "CSE": 20039,
+    "EE": 36106,
+    "ECE": 29484,
+    "ME": 48332
+  },
+  "National Institute of Technology Nagaland": {
+    "CE": 57171,
+    "CSE": 31391,
+    "EE": 47335,
+    "ECE": 42889,
+    "ME": 51973
+  },
+  "National Institute of Technology Patna": {
+    "CE": 46400,
+    "CSE": 14442,
+    "EE": 26872,
+    "ECE": 20286,
+    "ME": 36958
+  },
+  "National Institute of Technology Puducherry": {
+    "CE": 47854,
+    "CSE": 18515,
+    "EE": 29032,
+    "ECE": 24073,
+    "ME": 42247
+  },
+  "National Institute of Technology Raipur": {
+    "Chemical": 39335,
+    "CE": 44960,
+    "CSE": 13177,
+    "EE": 26898,
+    "ECE": 18823,
+    "IT": 16070,
+    "ME": 35628
+  },
+  "National Institute of Technology Sikkim": {
+    "CE": 54266,
+    "CSE": 28284,
+    "EE": 42538,
+    "ECE": 37004,
+    "ME": 47070
+  },
+  "National Institute of Technology, Andhra Pradesh": {
+    "Chemical": 45161,
+    "CE": 50048,
+    "CSE": 18548,
+    "EE": 34473,
+    "ECE": 25707,
+    "ME": 41191
+  },
+  "National Institute of Technology, Jamshedpur": {
+    "CE": 40903,
+    "CSE": 7944,
+    "EE": 17387,
+    "ECE": 13080,
+    "ME": 29147
+  },
+  "National Institute of Technology, Kurukshetra": {
+    "CE": 34647,
+    "CSE": 6000,
+    "EE": 17104,
+    "ECE": 11489,
+    "IT": 7512,
+    "ME": 23310
+  },
+  "National Institute of Technology, Manipur": {
+    "CE": 56358,
+    "CSE": 30611,
+    "EE": 47728,
+    "ECE": 40126,
+    "ME": 50535
+  },
+  "National Institute of Technology, Mizoram": {
+    "CE": 56579,
+    "CSE": 33181,
+    "EE": 47514,
+    "ECE": 43128,
+    "ME": 52165
+  },
+  "National Institute of Technology, Rourkela": {
+    "Chemical": 18958,
+    "CE": 25893,
+    "CSE": 2940,
+    "EE": 10462,
+    "ECE": 5721,
+    "ME": 15037
+  },
+  "National Institute of Technology, Silchar": {
+    "CE": 45391,
+    "CSE": 11930,
+    "EE": 24365,
+    "ECE": 17339,
+    "ME": 32251
+  },
+  "National Institute of Technology, Srinagar": {
+    "Chemical": 51760,
+    "CE": 55070,
+    "CSE": 21839,
+    "EE": 40442,
+    "ECE": 33605,
+    "IT": 26370,
+    "ME": 47482
+  },
+  "National Institute of Technology, Tiruchirappalli": {
+    "Chemical": 13950,
+    "CE": 18965,
+    "CSE": 1224,
+    "EE": 6040,
+    "ECE": 3546,
+    "ME": 9305
+  },
+  "National Institute of Technology, Uttarakhand": {
+    "CE": 48366,
+    "CSE": 18039,
+    "EE": 32287,
+    "ECE": 26226,
+    "ME": 40565
+  },
+  "National Institute of Technology, Warangal": {
+    "Chemical": 18833,
+    "CE": 25857,
+    "CSE": 2948,
+    "EE": 7851,
+    "ECE": 5014,
+    "ME": 14333
+  },
+  "Punjab Engineering College, Chandigarh": {
+    "Aerospace": 30665,
+    "CE": 51670,
+    "CSE": 10498,
+    "EE": 27230,
+    "ECE": 19785,
+    "ME": 41055
+  },
+  "Sardar Vallabhbhai National Institute of Technology, Surat": {
+    "Chemical": 34327,
+    "CE": 42166,
+    "CSE": 7113,
+    "EE": 19425,
+    "ECE": 13942,
+    "ME": 27163
+  },
+  "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur": {
+    "Chemical": 102816,
+    "CE": 103216,
+    "CSE": 68327,
+    "EE": 93004,
+    "ECE": 81022,
+    "IT": 82037,
+    "ME": 97508
+  },
+  "Visvesvaraya National Institute of Technology, Nagpur": {
+    "Chemical": 28900,
+    "CE": 36655,
+    "CSE": 5795,
+    "EE": 14761,
+    "ECE": 9858,
+    "ME": 23108
+  },
+  "Indian Institute  of Technology Bhubaneswar": {
+    "CE": 14997,
+    "CSE": 3101,
+    "EE": 7714,
+    "ECE": 5190,
+    "ME": 10826
+  },
+  "Indian Institute  of Technology Bombay": {
+    "Aerospace": 2694,
+    "Chemical": 2824,
+    "CE": 4371,
+    "CSE": 67,
+    "EE": 481,
+    "ME": 1736
+  },
+  "Indian Institute  of Technology Mandi": {
+    "CE": 13850,
+    "CSE": 2909,
+    "EE": 7240,
+    "ME": 10590
+  },
+  "Indian Institute  of Technology Delhi": {
+    "Chemical": 5687,
+    "CE": 4472,
+    "CSE": 118,
+    "EE": 582,
+    "ME": 1791
+  },
+  "Indian Institute  of Technology Indore": {
+    "Chemical": 9658,
+    "CE": 10994,
+    "CSE": 1385,
+    "EE": 3632,
+    "ME": 7474
+  },
+  "Indian Institute  of Technology Kharagpur": {
+    "Aerospace": 4773,
+    "Chemical": 8389,
+    "CE": 7177,
+    "CSE": 279,
+    "EE": 1833,
+    "ECE": 1205,
+    "ME": 3294
+  },
+  "Indian Institute  of Technology Hyderabad": {
+    "Chemical": 7123,
+    "CE": 9303,
+    "CSE": 674,
+    "EE": 2196,
+    "ME": 4976
+  },
+  "Indian Institute  of Technology Jodhpur": {
+    "Chemical": 12820,
+    "CSE": 2408,
+    "EE": 6898,
+    "ME": 10318
+  },
+  "Indian Institute  of Technology Kanpur": {
+    "Aerospace": 4027,
+    "Chemical": 4344,
+    "CE": 6116,
+    "CSE": 238,
+    "EE": 1349,
+    "ME": 2940
+  },
+  "Indian Institute  of Technology Madras": {
+    "Aerospace": 3237,
+    "Chemical": 4439,
+    "CE": 6132,
+    "CSE": 148,
+    "EE": 964,
+    "ME": 2572
+  },
+  "Indian Institute  of Technology Gandhinagar": {
+    "Chemical": 9651,
+    "CE": 11422,
+    "CSE": 1555,
+    "EE": 3962,
+    "ME": 7278
+  },
+  "Indian Institute  of Technology Patna": {
+    "ECE": 6695,
+    "Chemical": 13933,
+    "CE": 15295,
+    "CSE": 2811,
+    "EE": 7359,
+    "ME": 11453
+  },
+  "Indian Institute  of Technology Roorkee": {
+    "Chemical": 5015,
+    "CE": 7100,
+    "CSE": 412,
+    "EE": 2037,
+    "ECE": 1429,
+    "ME": 3854
+  },
+  "Indian Institute  of Technology (ISM) Dhanbad": {
+    "Chemical": 12473,
+    "CE": 14058,
+    "CSE": 3258,
+    "EE": 7784,
+    "ECE": 5821,
+    "ME": 10262
+  },
+  "Indian Institute  of Technology Ropar": {
+    "Chemical": 11041,
+    "CE": 13078,
+    "CSE": 1859,
+    "EE": 5832,
+    "ME": 8926
+  },
+  "Indian Institute  of Technology (BHU) Varanasi": {
+    "Chemical": 14830,
+    "CE": 10232,
+    "CSE": 1079,
+    "EE": 3534,
+    "ME": 6694
+  },
+  "Indian Institute  of Technology Guwahati": {
+    "Chemical": 5959,
+    "CE": 8453,
+    "CSE": 654,
+    "ECE": 1698,
+    "EE": 2117,
+    "ME": 4754
+  },
+  "Indian Institute  of Technology Palakkad": {
+    "CE": 16487,
+    "CSE": 5162,
+    "EE": 9766,
+    "ME": 13086
+  },
+  "Indian Institute  of Technology Tirupati": {
+    "Chemical": 14593,
+    "CE": 16658,
+    "CSE": 3701,
+    "EE": 8826,
+    "ME": 12150
+  },
+  "Indian Institute of Information Technology  Manipur": {
+    "CSE": 46351,
+    "ECE": 53342
+  },
+  "Birla Institute of Technology, Mesra,  Ranchi": {
+    "Chemical": 52487,
+    "CE": 54720,
+    "CSE": 16401,
+    "EE": 31677,
+    "ECE": 27182,
+    "ME": 44661
+  },
+  "National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)": {
+    "CSE": 46683
+  },
+  "National Institute of Electronics and Information Technology, Patna (Bihar)": {
+    "CSE": 59153
+  },
+  "National Institute of Electronics and Information Technology, Ajmer (Rajasthan)": {
+    "CSE": 57217
+  },
+  "National Institute of Electronics and Information Technology, Gorakhpur (UP)": {
+    "ECE": 71080,
+    "CSE": 63472
+  },
+  "Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)": {
+    "Aerospace": 64674,
+    "ECE": 69038
+  },
+  "Shri G. S. Institute of Technology and Science Indore": {
+    "CE": 55891,
+    "CSE": 24908,
+    "EE": 48010,
+    "IT": 31749,
+    "ME": 51823
+  }
+}
